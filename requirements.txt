@@ -1,0 +1,9 @@
+scikit-learn
+pandas
+flask
+jupyter
+tqdm
+notebook==7.1.2
+openai
+elasticsearch
+ipywidgets
